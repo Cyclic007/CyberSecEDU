@@ -20,6 +20,7 @@ The terminal is your [[CLI]] and how you get stuff done on all [[OS]]s and speci
 	- [[ping]]
 	- [[mkdir]]
 	- [[rm]]
+	- [[cat]]
 - Windows
 	- [[dir]]
 	- [[ping]]
